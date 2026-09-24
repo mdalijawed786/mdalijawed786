@@ -1,8 +1,7 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Fardeen Hassan Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Md Ali Jawed</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-I’m a Computer Science and Engineering student at Acharya with a strong interest in software development, programming, and new technologies. I’m focused on building a solid technical foundation while constantly improving my problem-solving and analytical skills.<br><br>My main areas of interest include web development, software engineering, databases, data structures, and current tech trends. I’m actively working on improving my skills in Java, C, HTML, CSS, JavaScript, and SQL through both college coursework and self-learning.
 
 
 ## 🌐 Socials:
